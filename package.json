@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/Skypow2012/toy-react/issues"
   },
-  "homepage": "https://github.com/Skypow2012/toy-react#readme"
+  "homepage": "https://github.com/Skypow2012/toy-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-transform-react-jsx": "^7.12.7",
+    "@babel/preset-env": "^7.12.7",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  }
 }
